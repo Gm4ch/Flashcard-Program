@@ -2,7 +2,7 @@
 Takes the content from a file and quizzes the user on it.
 
 
-The files must be formated like so:
+The files must be formated like so: (click acctual file for formating)
 
 apple
 la manzana
